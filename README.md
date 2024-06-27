@@ -74,11 +74,11 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 
 ## License
 
-Distributed under the Mozilla Public License 2.0 License. See [Mozilla Public License 2.0 License](https://github.com/ShaanCoding/makeread.me/blob/main/LICENSE.md) for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rubayetafsan/Fitness-Tracking-App/blob/main/LICENSE) file for details.
 
 
 ## Acknowledgments
 
-- Flutter
-- Dart
-- Icons from Material Icons
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- Icons from [Material Icons](https://mui.com/material-ui/)
