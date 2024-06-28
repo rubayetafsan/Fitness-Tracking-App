@@ -58,6 +58,12 @@ This project requires Yarn to be installed in your system. If you don&#39;t have
 ### Activity Page
 - Lists various fitness activities with details such as distance and duration.
 - Each activity can be clicked to view more details.
+  
+### Calendar Page
+- Allows users to view their activities on a calendar.
+- Users can select a date to view details of the activities performed on that day.
+
+
 ### Account Settings
 - Allows users to update their email and password.
 - Includes form validation and error messages.
